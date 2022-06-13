@@ -4,4 +4,4 @@
 I'm a Backend Developer 💻!
 </h2> 
 
-I feel realized when I participate in the entire process of software development with a focus on the backend. But, to do a great job, I'm always studying software architecture and practicing and focusing on performance and scalability. My biggest goal is to develop software that impacts a lot of users.
+I feel realized when I participate in the entire process of software development with a focus on the backend. But, to do a great job, I'm always studying software architecture and practicing and focusing on performance and scalability. My biggest goal is to develop software that impacts a milions users.
