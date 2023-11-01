@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Kotas](https://kotas.com.br/)
 
-- 🌱 I’m currently learning **.NET,AWS and playing with Golang!**
+- 🌱 I’m currently learning **.NET, AWS and playing with Golang!**
 
 - 📄 Know about my experiences [https://curr.to/resume-sauloalmeida](https://curr.to/resume-sauloalmeida)
 
